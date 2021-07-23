@@ -1,0 +1,31 @@
+
+body
+{background-color: rgb(233, 219, 219);
+text-align: "center";
+margin-top: 5pc;
+}
+.parentLoginDiv {
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  background: rgb(178, 185, 108);
+  height: 300px;
+  padding-top: 50px;
+}
+input#email {
+  height: 30px;
+  width: 300px;
+  margin-bottom: 25px;
+}
+
+input#password {
+  height: 30px;
+  width: 300px;
+  margin-bottom: 25px;
+}
+button {
+  width: 50%;
+  height: 30px;
+}
+
